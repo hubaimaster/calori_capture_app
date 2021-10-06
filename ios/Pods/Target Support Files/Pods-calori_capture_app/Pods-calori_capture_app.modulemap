@@ -1,0 +1,6 @@
+module Pods_calori_capture_app {
+  umbrella header "Pods-calori_capture_app-umbrella.h"
+
+  export *
+  module * { export * }
+}
